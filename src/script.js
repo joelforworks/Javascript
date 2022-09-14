@@ -1,1 +1,4 @@
-let a = 2;
+let element  = document.getElementById("hola");
+
+
+element.innerHTML = "¡¡Hola Mundo!!";
